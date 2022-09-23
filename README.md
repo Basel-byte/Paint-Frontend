@@ -1,3 +1,4 @@
+![Screenshot 2021-12-25 061941](https://user-images.githubusercontent.com/54442462/191994826-c155baaa-9142-40be-a415-8cf1b403bb45.png)
 # PaintFront
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
